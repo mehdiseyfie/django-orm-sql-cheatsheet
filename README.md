@@ -222,4 +222,4 @@ for q in connection.queries:
 
 ## 📄 License / لایسنس
 
-MIT © [Your Name / نام شما](https://github.com/mehdiseyfie)
+MIT © [Mehdi Seyfi](https://github.com/mehdiseyfie)
