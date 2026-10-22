@@ -7,8 +7,7 @@
 > مرجع سریع برای تبدیل دستورات پرکاربرد Django ORM به معادل SQL آن‌ها.
 
 [![Django ORM ↔ SQL](https://img.shields.io/badge/Django%20ORM-%E2%86%94%20SQL-092E20?logo=django&logoColor=white)](https://github.com/mehdiseyfie/django-orm-sql-cheatsheet)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL%20%7C%20SQLite-336791?logo=postgresql&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 **🌐 Language / زبان:** [🇬🇧 English](#-english) · [🇮🇷 فارسی](#-persian)
 
